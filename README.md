@@ -1,5 +1,3 @@
-Ég breytti þessu
-
 [![R-CMD-check](https://github.com/GIScience/openrouteservice-r/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/GIScience/openrouteservice-r/actions/workflows/R-CMD-check.yaml)
 [![Coverage
 Status](https://img.shields.io/codecov/c/github/GIScience/openrouteservice-r/master.svg)](https://app.codecov.io/github/GIScience/openrouteservice-r?branch=master)
@@ -8,7 +6,7 @@ Status](https://img.shields.io/codecov/c/github/GIScience/openrouteservice-r/mas
 openrouteservice R client
 =========================
 
-*openrouteservice* R package provides easy access to the
+*openrouteservice* Ég breytti þessu R package provides easy access to the
 [openrouteservice](https://openrouteservice.org) (ORS) API from R. It
 allows you to painlessly consume the following services:
 
