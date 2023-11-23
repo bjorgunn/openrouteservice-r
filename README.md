@@ -6,7 +6,7 @@ Status](https://img.shields.io/codecov/c/github/GIScience/openrouteservice-r/mas
 openrouteservice R client
 =========================
 
-*openrouteservice* Ég breytti þessu R package provides easy access to the
+*openrouteservice* Ég breytti þessu til baka R package provides easy access to the
 [openrouteservice](https://openrouteservice.org) (ORS) API from R. It
 allows you to painlessly consume the following services:
 
